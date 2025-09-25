@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MomoIpn.aspx.cs" Inherits="Webebook.WebForm.User.MomoIpn" %>

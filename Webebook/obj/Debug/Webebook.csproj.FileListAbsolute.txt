@@ -1,0 +1,154 @@
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Webebook.dll.config
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Webebook.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Webebook.pdb
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\csc.exe
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\csc.exe.config
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\csc.rsp
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\csi.exe
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\csi.exe.config
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\csi.rsp
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\System.Buffers.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\System.Collections.Immutable.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\System.Memory.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\System.Numerics.Vectors.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\vbc.exe
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\vbc.exe.config
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\vbc.rsp
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\VBCSCompiler.exe
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\roslyn\VBCSCompiler.exe.config
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.Logging.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.Options.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.Primitives.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Newtonsoft.Json.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Buffers.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.ComponentModel.Annotations.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.IO.Pipelines.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Memory.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Numerics.Vectors.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Text.Encodings.Web.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Text.Json.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Threading.Tasks.Extensions.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.ValueTuple.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.Logging.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.Options.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Microsoft.Extensions.Primitives.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\Newtonsoft.Json.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Buffers.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.IO.Pipelines.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Memory.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Numerics.Vectors.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Text.Encodings.Web.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Text.Json.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\bin\System.Threading.Tasks.Extensions.xml
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\obj\Debug\Webebook.csproj.AssemblyReference.cache
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\obj\Debug\Webebook.csproj.CoreCompileInputs.cache
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\obj\Debug\Webebook.csproj.Up2Date
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\obj\Debug\Webebook.dll
+E:\Tai Lieu Hoc Tap\IS 385 FJ\doan\Webebook\Webebook\obj\Debug\Webebook.pdb
+D:\learning\congcu\Webebook-master\Webebook\bin\Webebook.dll.config
+D:\learning\congcu\Webebook-master\Webebook\bin\Webebook.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Webebook.pdb
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\csc.exe
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\csc.exe.config
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\csc.rsp
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\csi.exe
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\csi.exe.config
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\csi.rsp
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.Managed.Core.targets
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\System.Buffers.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\System.Collections.Immutable.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\System.Memory.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\System.Numerics.Vectors.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\System.Reflection.Metadata.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\vbc.exe
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\vbc.exe.config
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\vbc.rsp
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\VBCSCompiler.exe
+D:\learning\congcu\Webebook-master\Webebook\bin\roslyn\VBCSCompiler.exe.config
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.Logging.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.Options.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.Primitives.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Newtonsoft.Json.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Buffers.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.ComponentModel.Annotations.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Diagnostics.DiagnosticSource.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.IO.Pipelines.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Memory.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Numerics.Vectors.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Text.Encodings.Web.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Text.Json.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Threading.Tasks.Extensions.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\System.ValueTuple.dll
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.Logging.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.Options.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\Microsoft.Extensions.Primitives.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\Newtonsoft.Json.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Buffers.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Diagnostics.DiagnosticSource.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.IO.Pipelines.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Memory.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Numerics.Vectors.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Text.Encodings.Web.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Text.Json.xml
+D:\learning\congcu\Webebook-master\Webebook\bin\System.Threading.Tasks.Extensions.xml
+D:\learning\congcu\Webebook-master\Webebook\obj\Debug\Webebook.csproj.AssemblyReference.cache
+D:\learning\congcu\Webebook-master\Webebook\obj\Debug\Webebook.csproj.CoreCompileInputs.cache
+D:\learning\congcu\Webebook-master\Webebook\obj\Debug\Webebook.csproj.Up2Date
+D:\learning\congcu\Webebook-master\Webebook\obj\Debug\Webebook.dll
+D:\learning\congcu\Webebook-master\Webebook\obj\Debug\Webebook.pdb

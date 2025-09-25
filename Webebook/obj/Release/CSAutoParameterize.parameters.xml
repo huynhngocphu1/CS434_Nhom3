@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="datawebebookConnectionString-Web.config Connection String" description="datawebebookConnectionString Connection String used in web.config by the application to access the database." defaultValue="&#xD;&#xA;Server=db18281.databaseasp.net; Database=db18281; User Id=db18281; Password=sD!62dZ@c?5P; Encrypt=False; MultipleActiveResultSets=True;&#xD;&#xA;        " tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Tai\ Lieu\ Hoc\ Tap\\IS\ 385\ FJ\\doan\\Webebook\\Webebook\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='datawebebookConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
