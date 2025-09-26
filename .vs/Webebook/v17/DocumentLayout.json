@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\learning\\congcu\\DoAnCode\\",
+  "WorkspaceRootPath": "F:\\DOAN\\Git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65A46289-9CD7-4EB2-B8DE-621B1C64C3D7}|Webebook\\Webebook.csproj|D:\\learning\\congcu\\DoAnCode\\webebook\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{65A46289-9CD7-4EB2-B8DE-621B1C64C3D7}|Webebook\\Webebook.csproj|f:\\doan\\git\\webebook\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{65A46289-9CD7-4EB2-B8DE-621B1C64C3D7}|Webebook\\Webebook.csproj|solutionrelative:webebook\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\learning\\congcu\\DoAnCode\\.vs\\Webebook\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DOAN\\Git\\.vs\\Webebook\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\Webebook\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -24,15 +24,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\learning\\congcu\\DoAnCode\\Webebook\\Web.config",
+              "DocumentMoniker": "F:\\DOAN\\Git\\Webebook\\Web.config",
               "RelativeDocumentMoniker": "Webebook\\Web.config",
-              "ToolTip": "D:\\learning\\congcu\\DoAnCode\\Webebook\\Web.config",
+              "ToolTip": "F:\\DOAN\\Git\\Webebook\\Web.config",
               "RelativeToolTip": "Webebook\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-08-21T11:50:38.383Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
             },
             {
               "$type": "Bookmark",
@@ -46,9 +50,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "applicationhost.config",
-              "DocumentMoniker": "D:\\learning\\congcu\\DoAnCode\\.vs\\Webebook\\config\\applicationhost.config",
+              "DocumentMoniker": "F:\\DOAN\\Git\\.vs\\Webebook\\config\\applicationhost.config",
               "RelativeDocumentMoniker": ".vs\\Webebook\\config\\applicationhost.config",
-              "ToolTip": "D:\\learning\\congcu\\DoAnCode\\.vs\\Webebook\\config\\applicationhost.config",
+              "ToolTip": "F:\\DOAN\\Git\\.vs\\Webebook\\config\\applicationhost.config",
               "RelativeToolTip": ".vs\\Webebook\\config\\applicationhost.config",
               "ViewState": "AgIAAI4AAAAAAAAAAAAswKcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
