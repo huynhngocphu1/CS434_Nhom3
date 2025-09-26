@@ -1,1 +1,0 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="VnpayIpn.aspx.cs" Inherits="Webebook.WebForm.User.VnpayIpn" %>

@@ -161,6 +161,13 @@
     <None Include="Properties\PublishProfiles\site29530-WebDeploy.pubxml" />
     <None Include="Properties\PublishProfiles\site30017-WebDeploy.pubxml" />
     <Content Include="Web.config" />
+    <Content Include="WebForm\Admin\QuanLySach.aspx" />
+    <Content Include="WebForm\Admin\SuaNoiDungSach.aspx" />
+    <Content Include="WebForm\Admin\SuSach.aspx" />
+    <Content Include="WebForm\User\chitietsach_user.aspx" />
+    <Content Include="WebForm\User\docsach.aspx" />
+    <Content Include="WebForm\User\giohang_user.aspx" />
+    <Content Include="WebForm\VangLai\gioithieu.aspx" />
     <Content Include="WebForm\VangLai\Site.Master" />
     <Content Include="WebForm\Admin\Admin.Master" />
     <Content Include="WebForm\User\User.Master" />
@@ -177,12 +184,56 @@
     <Compile Include="WebForm\Admin\Admin.Master.designer.cs">
       <DependentUpon>Admin.Master</DependentUpon>
     </Compile>
+    <Compile Include="WebForm\Admin\QuanLySach.aspx.cs">
+      <DependentUpon>QuanLySach.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm\Admin\QuanLySach.aspx.designer.cs">
+      <DependentUpon>QuanLySach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuaNoiDungSach.aspx.cs">
+      <DependentUpon>SuaNoiDungSach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuaNoiDungSach.aspx.designer.cs">
+      <DependentUpon>SuaNoiDungSach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuSach.aspx.cs">
+      <DependentUpon>SuSach.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuSach.aspx.designer.cs">
+      <DependentUpon>SuSach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\chitietsach_user.aspx.cs">
+      <DependentUpon>chitietsach_user.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\chitietsach_user.aspx.designer.cs">
+      <DependentUpon>chitietsach_user.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\docsach.aspx.cs">
+      <DependentUpon>docsach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\docsach.aspx.designer.cs">
+      <DependentUpon>docsach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\giohang_user.aspx.cs">
+      <DependentUpon>giohang_user.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\giohang_user.aspx.designer.cs">
+      <DependentUpon>giohang_user.aspx</DependentUpon>
+    </Compile>
     <Compile Include="WebForm\User\User.Master.cs">
       <DependentUpon>User.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="WebForm\User\User.Master.designer.cs">
       <DependentUpon>User.Master</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\VangLai\gioithieu.aspx.cs">
+      <DependentUpon>gioithieu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\VangLai\gioithieu.aspx.designer.cs">
+      <DependentUpon>gioithieu.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm\VangLai\Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>

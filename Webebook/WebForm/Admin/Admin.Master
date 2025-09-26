@@ -439,6 +439,6 @@
         // 3. Luôn ẩn loader khi trang được hiển thị (kể cả khi nhấn nút Back)
         window.addEventListener('pageshow', hideLoader);
         <%-- ==================== KẾT THÚC: JAVASCRIPT CHO LOADING OVERLAY ==================== --%>
-    </script>
+</script>
 </body>
 </html>
