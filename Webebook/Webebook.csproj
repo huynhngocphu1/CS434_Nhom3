@@ -168,6 +168,8 @@
     <Content Include="WebForm\Admin\adminhome.aspx" />
     <Content Include="WebForm\Admin\BaoCaoDoanhThu.aspx" />
     <Content Include="WebForm\Admin\QuanLyDonHang.aspx" />
+    <Content Include="WebForm\User\chitietdonhang.aspx" />
+    <Content Include="WebForm\User\danhgia.aspx" />
     <Content Include="WebForm\VangLai\chitietsach.aspx" />
     <Content Include="WebForm\VangLai\dangnhap.aspx" />
     <Content Include="WebForm\VangLai\Site.Master" />
@@ -205,6 +207,18 @@
     </Compile>
     <Compile Include="WebForm\Admin\QuanLyDonHang.aspx.designer.cs">
       <DependentUpon>QuanLyDonHang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\chitietdonhang.aspx.cs">
+      <DependentUpon>chitietdonhang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\chitietdonhang.aspx.designer.cs">
+      <DependentUpon>chitietdonhang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\danhgia.aspx.cs">
+      <DependentUpon>danhgia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\User\danhgia.aspx.designer.cs">
+      <DependentUpon>danhgia.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm\User\User.Master.cs">
       <DependentUpon>User.Master</DependentUpon>
