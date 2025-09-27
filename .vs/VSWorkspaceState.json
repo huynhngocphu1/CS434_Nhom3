@@ -3,6 +3,7 @@
     "",
     "\\Webebook",
     "\\Webebook\\WebForm",
+    "\\Webebook\\WebForm\\Admin",
     "\\Webebook\\WebForm\\User",
     "\\Webebook\\WebForm\\VangLai"
   ],
