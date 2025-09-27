@@ -3,7 +3,9 @@
     "",
     "\\Webebook",
     "\\Webebook\\WebForm",
+    "\\Webebook\\WebForm\\User",
     "\\Webebook\\WebForm\\VangLai"
   ],
+  "SelectedNode": "\\Webebook\\WebForm\\User\\giohang_user.aspx",
   "PreviewInSolutionExplorer": false
 }
