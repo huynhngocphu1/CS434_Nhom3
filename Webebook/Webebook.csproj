@@ -164,6 +164,11 @@
     <None Include="Properties\PublishProfiles\site24034-WebDeploy.pubxml" />
     <None Include="Properties\PublishProfiles\site29530-WebDeploy.pubxml" />
     <None Include="Properties\PublishProfiles\site30017-WebDeploy.pubxml" />
+    <None Include="scripts\jquery-3.7.1.intellisense.js" />
+    <Content Include="scripts\jquery-3.7.1.js" />
+    <Content Include="scripts\jquery-3.7.1.min.js" />
+    <Content Include="scripts\jquery-3.7.1.slim.js" />
+    <Content Include="scripts\jquery-3.7.1.slim.min.js" />
     <Content Include="Web.config" />
     <Content Include="WebForm\Admin\adminhome.aspx" />
     <Content Include="WebForm\Admin\BaoCaoDoanhThu.aspx" />
@@ -319,6 +324,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="scripts\jquery-3.7.1.min.map" />
+    <Content Include="scripts\jquery-3.7.1.slim.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
