@@ -168,6 +168,12 @@
     <Content Include="WebForm\Admin\adminhome.aspx" />
     <Content Include="WebForm\Admin\BaoCaoDoanhThu.aspx" />
     <Content Include="WebForm\Admin\QuanLyDonHang.aspx" />
+    <Content Include="WebForm\Admin\QuanLySach.aspx" />
+    <Content Include="WebForm\Admin\SuaNoiDungChuong.aspx" />
+    <Content Include="WebForm\Admin\SuaNoiDungSach.aspx" />
+    <Content Include="WebForm\Admin\SuaSach.aspx" />
+    <Content Include="WebForm\Admin\ThemChuongMoi.aspx" />
+    <Content Include="WebForm\Admin\ThemSach.aspx" />
     <Content Include="WebForm\User\chitietdonhang.aspx" />
     <Content Include="WebForm\User\danhgia.aspx" />
     <Content Include="WebForm\User\giohang_user.aspx" />
@@ -211,6 +217,42 @@
     </Compile>
     <Compile Include="WebForm\Admin\QuanLyDonHang.aspx.designer.cs">
       <DependentUpon>QuanLyDonHang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\QuanLySach.aspx.cs">
+      <DependentUpon>QuanLySach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\QuanLySach.aspx.designer.cs">
+      <DependentUpon>QuanLySach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuaNoiDungChuong.aspx.cs">
+      <DependentUpon>SuaNoiDungChuong.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuaNoiDungChuong.aspx.designer.cs">
+      <DependentUpon>SuaNoiDungChuong.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuaNoiDungSach.aspx.cs">
+      <DependentUpon>SuaNoiDungSach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuaNoiDungSach.aspx.designer.cs">
+      <DependentUpon>SuaNoiDungSach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuaSach.aspx.cs">
+      <DependentUpon>SuaSach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\SuaSach.aspx.designer.cs">
+      <DependentUpon>SuaSach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\ThemChuongMoi.aspx.cs">
+      <DependentUpon>ThemChuongMoi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\ThemChuongMoi.aspx.designer.cs">
+      <DependentUpon>ThemChuongMoi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\ThemSach.aspx.cs">
+      <DependentUpon>ThemSach.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm\Admin\ThemSach.aspx.designer.cs">
+      <DependentUpon>ThemSach.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm\User\chitietdonhang.aspx.cs">
       <DependentUpon>chitietdonhang.aspx</DependentUpon>
